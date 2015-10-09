@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_sort_by">
+        <item>@string/sort_param_popular</item>
+        <item>@string/sort_param_high</item>
+    </string-array>
+
+    <string-array name="value_sort_by">
+        <item>@string/sort_param_value_popular</item>
+        <item>@string/sort_param_value_high_rate</item>
+    </string-array>
+</resources>

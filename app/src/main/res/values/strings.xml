@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sort_param">sort_by</string>
+    <string name="pref_sort_param">sort_by</string>
+
+    <string name="api_key_param">api_key</string>
+
+    <string name="sort_param_value_popular">popularity.desc</string>
+    <string name="sort_param_popular">Popular</string>
+    <string name="api_key_param_value">1cfa090a0ea98f4680de5da1c01ba631</string>
+
+    <string name="sort_param_value_high_rate">vote_average.desc</string>
+    <string name="sort_param_high">Highest-Rated</string>
+    <string name="img_base_url">http://image.tmdb.org/t/p/</string>
+    <string name="img_size">w185/</string>
+
+    <string name="pref_sort_title">Sort By</string>
+    <string name="title_activity_detail_movie">MovieDetail</string>
+</resources>
